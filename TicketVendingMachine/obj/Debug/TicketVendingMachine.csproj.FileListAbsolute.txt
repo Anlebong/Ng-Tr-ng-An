@@ -1,0 +1,14 @@
+D:\HKII_2022-2023\Congnghephanmem\QT1\TicketVendingMachine\bin\Debug\TicketVendingMachine.exe.config
+D:\HKII_2022-2023\Congnghephanmem\QT1\TicketVendingMachine\bin\Debug\TicketVendingMachine.exe
+D:\HKII_2022-2023\Congnghephanmem\QT1\TicketVendingMachine\bin\Debug\TicketVendingMachine.pdb
+D:\HKII_2022-2023\Congnghephanmem\QT1\TicketVendingMachine\obj\Debug\TicketVendingMachine.csproj.AssemblyReference.cache
+D:\HKII_2022-2023\Congnghephanmem\QT1\TicketVendingMachine\obj\Debug\TicketVendingMachine.csproj.SuggestedBindingRedirects.cache
+D:\HKII_2022-2023\Congnghephanmem\QT1\TicketVendingMachine\obj\Debug\TicketVendingMachine.Form1.resources
+D:\HKII_2022-2023\Congnghephanmem\QT1\TicketVendingMachine\obj\Debug\TicketVendingMachine.Properties.Resources.resources
+D:\HKII_2022-2023\Congnghephanmem\QT1\TicketVendingMachine\obj\Debug\TicketVendingMachine.csproj.GenerateResource.cache
+D:\HKII_2022-2023\Congnghephanmem\QT1\TicketVendingMachine\obj\Debug\TicketVendingMachine.csproj.CoreCompileInputs.cache
+D:\HKII_2022-2023\Congnghephanmem\QT1\TicketVendingMachine\obj\Debug\TicketVendingMachine.exe
+D:\HKII_2022-2023\Congnghephanmem\QT1\TicketVendingMachine\obj\Debug\TicketVendingMachine.pdb
+D:\HKII_2022-2023\Congnghephanmem\QT1\TicketVendingMachine\obj\Debug\TicketVendingMachine.Credit.resources
+D:\HKII_2022-2023\Congnghephanmem\QT1\TicketVendingMachine\obj\Debug\TicketVendingMachine.QR_code_linking_to_bank.resources
+D:\HKII_2022-2023\Congnghephanmem\QT1\TicketVendingMachine\obj\Debug\TicketVendingMachine.Ticket.resources
